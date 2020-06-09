@@ -1,0 +1,10 @@
+img{
+    margin: auto;
+    max-width: 1200px;
+    display: flex;
+}
+li{
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+} 
